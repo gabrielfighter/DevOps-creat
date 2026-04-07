@@ -8,7 +8,7 @@ async def root():
  
 
 @app.get("/teste1")
-async def funcaoteste():
+async def testeNomeAlterado():
     return {
 
         "teste":"deu certo"
