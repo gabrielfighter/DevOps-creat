@@ -11,5 +11,5 @@ async def root():
 async def testeNomeAlterado():
     return {
 
-        "teste":"deu certo"
+        "teste":"curta"
     }
